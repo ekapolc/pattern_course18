@@ -1,4 +1,4 @@
-# Google Cloud Signup Tutorial for NLP
+# Google Cloud Signup Tutorial
 Many parts in this tutorial is modified from Stanford's [CS231n's tutorial](http://cs231n.github.io/gce-tutorial/)
 
 # Create and Configure Your Account

@@ -9,7 +9,7 @@ Submit your initial proposal on Mycourseville and signup for a meeting.
 ## Mid-project report (3 points)
 
 Report due: Wednesday 6th November (midnight)<br/>
-Update meeting: Thursday 7th November (16:10-6:00pm, 10 minute time slots)
+Update meeting: Thursday 7th November (16:05-18:00, 10 minute time slots)
 
 A maximum of one page write-up summarizing what you have done. **This should include preliminary results.** For example, some results using a very simple model. This can be useful as a baseline for your project.
 

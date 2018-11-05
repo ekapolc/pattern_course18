@@ -46,7 +46,7 @@ The scoring criterion will be based on:
 
 ## Write-up (14 points)
 
-Write-up due: Sunday 10th December (**No extensions! Late submissions will cause a delay in your grade!**)
+Write-up due: Monday 10th December (**No extensions! Late submissions will cause a delay in your grade!**)
 
 A maximum of four-page (double column) or eight-page (single column) write-up. Each group is encouraged to do the write-up in latex (3 bonus points).
 
